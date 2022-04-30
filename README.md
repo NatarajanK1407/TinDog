@@ -1,2 +1,1 @@
-# TinDog
-CSS - BootStrap
+TinDog Starting Files
